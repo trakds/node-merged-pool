@@ -7,8 +7,6 @@ This software has been modefied for merged mining. It is still in development.
 This is a module for Node.js that will do nothing on its own. Unless you're a Node.js developer who would like to
 handle stratum authentication and raw share data then this module will not be of use to you.
 
-[![Build Status](https://travis-ci.org/sigwo/node-stratum-pool.png?branch=master)](https://travis-ci.org/sigwo/node-stratum-pool)
-
 #### Why
 This server was built to be more efficient and easier to setup, maintain and scale than existing stratum poolservers
 which are written in python. Compared to the spaghetti state of the latest
