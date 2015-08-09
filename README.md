@@ -7,7 +7,7 @@ This software has been modefied for merged mining. It is still in development.
 This is a module for Node.js that will do nothing on its own. Unless you're a Node.js developer who would like to
 handle stratum authentication and raw share data then this module will not be of use to you.
 
-[![Build Status](https://travis-ci.org/KillerByte/node-stratum-pool.png?branch=master)](https://travis-ci.org/KillerByte/node-stratum-pool)
+[![Build Status](https://travis-ci.org/sigwo/node-stratum-pool.png?branch=master)](https://travis-ci.org/sigwo/node-stratum-pool)
 
 #### Why
 This server was built to be more efficient and easier to setup, maintain and scale than existing stratum poolservers
@@ -61,7 +61,7 @@ Not working currently:
 
 Requirements
 ------------
-* node v0.10+
+* node v0.12+
 * coin daemon for primay and auxillery coins (preferably one with a relatively updated API and not some crapcoin :p)
 
 
