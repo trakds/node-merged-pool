@@ -1,10 +1,10 @@
 {
-    "name": "merged-pool",
-    "version": "0.1.10",
+    "name": "merged-pooler",
+    "version": "0.4.0",
     "description": "High performance Stratum poolserver in Node.js for merged mining",
     "keywords": [
         "stratum",
-	    "merged",
+	"merged",
         "mining",
         "pool",
         "server",
@@ -20,9 +20,11 @@
     "license": "GPL-2.0",
     "author": "Daniel Beal",
     "contributors": [
-	    "zone117x",
+	"zone117x",
         "vekexasia",
-        "TheSeven"
+        "TheSeven",
+        "sigwo",
+        "infernoman"
     ],
     "main": "lib/index.js",
     "repository": {
