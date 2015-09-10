@@ -32,7 +32,7 @@
         "url": "https://github.com/UNOMP/node-merged-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/UNOMP/node-multi-hashing.git",
+        "multi-hashing": "unomp-multi-hashing",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
