@@ -1,6 +1,6 @@
 {
     "name": "merged-pooler",
-    "version": "0.5.0",
+    "version": "1.0.0",
     "description": "High performance Stratum poolserver in Node.js for merged mining",
     "keywords": [
         "stratum",
@@ -11,7 +11,9 @@
         "poolserver",
         "bitcoin",
         "litecoin",
-        "scrypt"
+        "scrypt",
+        "multipool",
+        "multicoin"
     ],
     "homepage": "https://github.com/UNOMP/node-merged-pool",
     "bugs": {
