@@ -88,7 +88,8 @@ var myCoin = {
     "nValue": 1024, //optional - defaults to 1024
     "rValue": 1, //optional - defaults to 1
     "txMessages": false, //optional - defaults to false,
-    "segwit": "YES", // optional - for segwit coins ONLY
+    "getblocktemplate": "POS", //optional - Used for POS coins with the old getblocktemplate parameters
+    "reward": "POS", //optional - Used for hybrid POW/POS coins
 
     /* Magic value only required for setting up p2p block notifications. It is found in the daemon
        source code as the pchMessageStart variable.
