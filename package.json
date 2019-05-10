@@ -31,7 +31,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/EliteMobb79/node-multi-hashing-x14.git"
+        "url": "https://github.com/UNOMP/node-merged-pool.git"
     },
     "dependencies": {
         "unomp-multi-hashing": "*",
