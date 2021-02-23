@@ -34,7 +34,7 @@
         "url": "https://github.com/trakds/node-merged-pool.git"
     },
     "dependencies": {
-        "unomp-multi-hashing": "git://github.com/trakds/node-multi-hashing",
+        "unomp-multi-hashing": "git://github.com/trakds/unomp-multi-hashing",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
