@@ -15,9 +15,9 @@
         "multipool",
         "multicoin"
     ],
-    "homepage": "https://github.com/UNOMP/node-merged-pool",
+    "homepage": "https://github.com/trakds/node-merged-pool",
     "bugs": {
-        "url": "https://github.com/UNOMP/node-merged-pool/issues"
+        "url": "https://github.com/trakds/node-merged-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Daniel Beal",
@@ -31,10 +31,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/UNOMP/node-merged-pool.git"
+        "url": "https://github.com/trakds/node-merged-pool.git"
     },
     "dependencies": {
-        "unomp-multi-hashing": "*",
+        "unomp-multi-hashing": "https://github.com/trakds/unomp-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
